@@ -1,0 +1,22 @@
+[Desktop Action new-note]
+Exec=bijiben --new-note
+Name=Create New Note
+
+[Desktop Entry]
+Actions=new-note
+Categories=GNOME;GTK;Utility;
+Comment=Post notes, tag files!
+Exec=bijiben %u
+GenericName=Note
+Icon=org.gnome.Notes
+Keywords=notes;reminder;notebook;sticky notes;
+MimeType=x-scheme-handler/note;
+Name=Note-taker
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

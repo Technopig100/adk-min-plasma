@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=Qt;KDE;System;
+Comment=Panel icon to mount and unmount disks
+Exec=kwikdisk -qwindowtitle %c
+GenericName=Kwikdisk
+Icon=kwikdisk
+Name=Removable Media Utility
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DocPath=kdf/index.html
+X-KDE-SubstituteUID=false
+X-KDE-Username=
