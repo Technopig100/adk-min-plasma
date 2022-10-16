@@ -8,27 +8,27 @@ _k_friendly_name=Keyboard Layout Switcher
 
 [assistant.desktop]
 _k_friendly_name=Qt Assistant
-_launch=,none,Launch Qt Assistant
+_launch=none,none,Launch Qt Assistant
 
 [avahi-discover.desktop]
 _k_friendly_name=Avahi Zeroconf Browser
-_launch=,none,Launch Avahi Zeroconf Browser
+_launch=none,none,Launch Avahi Zeroconf Browser
 
 [bssh.desktop]
 _k_friendly_name=Avahi SSH Server Browser
-_launch=,none,Launch Avahi SSH Server Browser
+_launch=none,none,Launch Avahi SSH Server Browser
 
 [bvnc.desktop]
 _k_friendly_name=Avahi VNC Server Browser
-_launch=,none,Launch Avahi VNC Server Browser
+_launch=none,none,Launch Avahi VNC Server Browser
 
 [cups.desktop]
 _k_friendly_name=Manage Printing
-_launch=,none,Launch Manage Printing
+_launch=none,none,Launch Manage Printing
 
 [designer.desktop]
 _k_friendly_name=Qt Designer
-_launch=,none,Launch Qt Designer
+_launch=none,none,Launch Qt Designer
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
@@ -202,7 +202,7 @@ Window to Next Desktop=none,,Window to Next Desktop
 Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,Window to Next Screen
 Window to Previous Desktop=none,,Window to Previous Desktop
 Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,Window to Previous Screen
-Window to Screen %1=,,Switch to Screen 7
+Window to Screen %1=none,,Switch to Screen 7
 Window to Screen 0=none,none,Window to Screen 0
 Window to Screen 1=none,none,Window to Screen 1
 Window to Screen 2=none,none,Window to Screen 2
@@ -262,19 +262,19 @@ show view settings=Meta+A,Meta+A,Cycle Through Dock/Panel Settings Windows
 
 [linguist.desktop]
 _k_friendly_name=Qt Linguist
-_launch=,none,Launch Qt Linguist
+_launch=none,none,Launch Qt Linguist
 
 [lstopo.desktop]
 _k_friendly_name=Hardware Locality lstopo
-_launch=,none,Launch Hardware Locality lstopo
+_launch=none,none,Launch Hardware Locality lstopo
 
 [menulibre.desktop]
 _k_friendly_name=Menu Editor
-_launch=,none,Launch Menu Editor
+_launch=none,none,Launch Menu Editor
 
 [nm-connection-editor.desktop]
 _k_friendly_name=Advanced Network Configuration
-_launch=,none,Launch Advanced Network Configuration
+_launch=none,none,Launch Advanced Network Configuration
 
 [org.kde.dolphin.desktop]
 _k_friendly_name=Dolphin
@@ -282,15 +282,19 @@ _launch=Meta+E,Meta+E,Dolphin
 
 [org.kde.kate.desktop]
 _k_friendly_name=Kate
-_launch=,none,Launch Kate
+_launch=none,none,Launch Kate
+
+[org.kde.kdf.desktop]
+_k_friendly_name=KDiskFree
+_launch=none,none,Launch KDiskFree
 
 [org.kde.kinfocenter.desktop]
 _k_friendly_name=Info Center
-_launch=,none,Launch Info Center
+_launch=none,none,Launch Info Center
 
 [org.kde.kmenuedit.desktop]
 _k_friendly_name=Menu Editor
-_launch=,none,Launch Menu Editor
+_launch=none,none,Launch Menu Editor
 
 [org.kde.krunner.desktop]
 RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
@@ -299,7 +303,7 @@ _launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
 
 [org.kde.plasma.emojier.desktop]
 _k_friendly_name=Emoji Selector
-_launch=,Meta+.,Launch Emoji Selector
+_launch=none,Meta+.,Launch Emoji Selector
 
 [org.kde.spectacle.desktop]
 ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
@@ -313,7 +317,7 @@ _launch=Print,Print,Spectacle
 
 [org.manjaro.pamac.manager.desktop]
 _k_friendly_name=Add/Remove Software
-_launch=,none,Launch Add/Remove Software
+_launch=none,none,Launch Add/Remove Software
 updates=none,none,Software Update
 
 [org_kde_powerdevil]
@@ -331,7 +335,7 @@ _k_friendly_name=Power Management
 
 [pavucontrol.desktop]
 _k_friendly_name=PulseAudio Volume Control
-_launch=,none,Launch PulseAudio Volume Control
+_launch=none,none,Launch PulseAudio Volume Control
 
 [plasmashell]
 _k_friendly_name=Plasma
@@ -366,31 +370,31 @@ toggle do not disturb=none,,Toggle do not disturb
 
 [qdbusviewer.desktop]
 _k_friendly_name=Qt QDBusViewer
-_launch=,none,Launch Qt QDBusViewer
+_launch=none,none,Launch Qt QDBusViewer
 
 [qt5ct.desktop]
 _k_friendly_name=Qt5 Settings
-_launch=,none,Launch Qt5 Settings
+_launch=none,none,Launch Qt5 Settings
 
 [qv4l2.desktop]
 _k_friendly_name=Qt V4L2 test Utility
-_launch=,none,Launch Qt V4L2 test Utility
+_launch=none,none,Launch Qt V4L2 test Utility
 
 [qvidcap.desktop]
 _k_friendly_name=Qt V4L2 video capture utility
-_launch=,none,Launch Qt V4L2 video capture utility
+_launch=none,none,Launch Qt V4L2 video capture utility
 
 [stoken-gui-small.desktop]
 _k_friendly_name=Software Token (small)
-_launch=,none,Launch Software Token (small)
+_launch=none,none,Launch Software Token (small)
 
 [stoken-gui.desktop]
 _k_friendly_name=Software Token
-_launch=,none,Launch Software Token
+_launch=none,none,Launch Software Token
 
 [system-config-printer.desktop]
 _k_friendly_name=Print Settings
-_launch=,none,Launch Print Settings
+_launch=none,none,Launch Print Settings
 
 [systemsettings.desktop]
 _k_friendly_name=System Settings
