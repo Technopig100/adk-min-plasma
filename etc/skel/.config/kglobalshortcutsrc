@@ -30,6 +30,10 @@ _launch=none,none,Launch Manage Printing
 _k_friendly_name=Qt Designer
 _launch=none,none,Launch Qt Designer
 
+[electron.desktop]
+_k_friendly_name=Electron
+_launch=none,none,Launch Electron
+
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
 _k_friendly_name=Accessibility
@@ -316,8 +320,8 @@ _k_friendly_name=Spectacle
 _launch=Print,Print,Spectacle
 
 [org.manjaro.pamac.manager.desktop]
-_k_friendly_name=Add/Remove Software
-_launch=none,none,Launch Add/Remove Software
+_k_friendly_name=Pamac Add/Remove Software
+_launch=none,none,Launch Pamac Add/Remove Software
 updates=none,none,Software Update
 
 [org_kde_powerdevil]
@@ -376,14 +380,6 @@ _launch=none,none,Launch Qt QDBusViewer
 _k_friendly_name=Qt5 Settings
 _launch=none,none,Launch Qt5 Settings
 
-[qv4l2.desktop]
-_k_friendly_name=Qt V4L2 test Utility
-_launch=none,none,Launch Qt V4L2 test Utility
-
-[qvidcap.desktop]
-_k_friendly_name=Qt V4L2 video capture utility
-_launch=none,none,Launch Qt V4L2 video capture utility
-
 [stoken-gui-small.desktop]
 _k_friendly_name=Software Token (small)
 _launch=none,none,Launch Software Token (small)
@@ -391,6 +387,12 @@ _launch=none,none,Launch Software Token (small)
 [stoken-gui.desktop]
 _k_friendly_name=Software Token
 _launch=none,none,Launch Software Token
+
+[sublime_text.desktop]
+Document=none,none,New File
+Window=none,none,New Window
+_k_friendly_name=Sublime Text
+_launch=none,none,Launch Sublime Text
 
 [system-config-printer.desktop]
 _k_friendly_name=Print Settings

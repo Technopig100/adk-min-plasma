@@ -1,5 +1,5 @@
 [Module-browserintegrationreminder]
-autoload=true
+autoload=false
 
 [Module-device_automounter]
-autoload=true
+autoload=false

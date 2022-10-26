@@ -6,6 +6,7 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
+ItemGeometries-1024x768=
 ItemGeometries-1600x900=
 ItemGeometriesHorizontal=
 activityId=2391ca10-f6a6-4533-99c8-3fdfb6cb7f09
@@ -57,7 +58,6 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][23][Configuration][General]
-appNameFormat=2
 customButtonImage=distributor-logo-adklinux.scale(White)
 favoritesPortedToKAstats=true
 hiddenApplications=org.kde.plasma.emojier.desktop,stoken-gui-small.desktop,stoken-gui.desktop,avahi-discover.desktop,lstopo.desktop,cups.desktop,system-config-printer.desktop,nm-connection-editor.desktop,pavucontrol.desktop,qt5ct.desktop,qv4l2.desktop,qvidcap.desktop,bssh.desktop,bvnc.desktop,assistant.desktop,designer.desktop,linguist.desktop,qdbusviewer.desktop,menulibre.desktop,org.kde.kmenuedit.desktop
@@ -118,7 +118,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=65
+PreloadWeight=60
 SystrayContainmentId=8
 
 [Containments][2][ConfigDialog]
@@ -176,7 +176,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][18][Configuration]
-PreloadWeight=60
+PreloadWeight=55
 
 [Containments][8][Applets][21]
 immutability=1
